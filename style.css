@@ -101,3 +101,14 @@ span {
     font-size: 0.7rem;
     font-weight: 700;
 }
+
+/* box: cart */
+
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart {
+    font-size: .85rem;
+    font-weight: 700;
+}
