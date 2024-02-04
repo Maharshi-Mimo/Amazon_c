@@ -57,7 +57,7 @@
 .nav-search { 
     display: flex;
     background-color: rgb(104, 75, 0);
-    width: 600px;
+    width: 60%;
     height: 40px;
     border-radius: 4px;
     justify-content: space-evenly;
@@ -119,4 +119,22 @@ span {
     height: 40px;
     background-color: #222f3d;
     display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-ops p{
+    display: inline;
+    margin-left: 10px;
+}
+
+.panel-ops{
+    width: 80%;
+    font-size: 0.85rem;
+}
+
+.panel-deals{
+    font-size: 0.90rem;
+    font-weight: 700;
 }
