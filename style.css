@@ -165,3 +165,17 @@ span {
 .hero-message a {
     color: #007185;
 }
+
+/** Shop Section **/
+.shop-box {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.box {
+    border: 2px solid black;
+    height: 350px;
+    width: 22%;
+    /* overflow: visible; */
+    background-color: white;
+}
