@@ -178,4 +178,9 @@ span {
     width: 22%;
     /* overflow: visible; */
     background-color: white;
+    padding: 20px 0px 16px;
+}
+
+.box-img {
+    height: 300px;
 }
