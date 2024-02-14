@@ -184,9 +184,19 @@ span {
 
 .box-img {
     height: 300px;
-    background-size: cover;
+    background-size:cover;
 }
 
 .box p {
     color:#007185;
+}
+
+.shop-boxes1 { 
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxes-img {
+    height: 100px;
+    width: 100px;
+    background-size:cover;
 }
