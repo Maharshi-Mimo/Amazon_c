@@ -192,11 +192,19 @@ span {
 }
 
 .shop-boxes1 { 
-    display: flex;
+    display:flex;
     flex-wrap: wrap;
+    background-size: cover;
+    width:auto;
 }
+
 .boxes-img {
     height: 100px;
     width: 100px;
     background-size:cover;
+}
+
+.grid {
+    display:flex;
+    flex-wrap: wrap;
 }
