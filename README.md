@@ -25,12 +25,6 @@ This project is a simple clone of the Amazon.com home page. The motivation behin
 
 Format: 
 <Issue number> [Fixed Issue/Feature/Bug] <Brief description of what you did>.
-<!-- ## Dependencies
-- Latest version of Chrome, Firefox, Edge browser. 
-
-## Acknowledgments
-- This project was inspired by the simplicity and elegance of the Tic-Tac-Toe game.
-
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/Amazon_c/LICENSE) file for details. -->
