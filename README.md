@@ -24,8 +24,8 @@ This project is a simple clone of the Amazon.com home page. The motivation behin
 2. Create a pull request (PR) to address any issue/feature. (mentioned the issue number)
 
 Format: 
-<Issue number> [Fixed Issue/Feature/Bug] <Brief description of what you did>.
+Issue number [Fixed Issue/Feature/Bug] Brief description of what you did.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](/Amazon_c/LICENSE) file for details. -->
+This project is licensed under the MIT License - see the [LICENSE](/Amazon_c/LICENSE) file for details. 
 
