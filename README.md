@@ -4,12 +4,10 @@
 - **Name:** Maharshi Dutta
 - **Contact:** maharshid32@gmail.com
 
-<!-- ## Description
-This project is a simple implementation of the classic game Tic-Tac-Toe. The motivation behind this project is to provide a fun and interactive way to play the game, either against another human player or against the computer.
+## Description
+This project is a simple clone of the Amazon.com home page. The motivation behind this project is to have hands on experience with creating web version and also to practice different html, css properties and features.
 
-Tic-Tac-Toe is a two-player game played on a 3x3 grid. The players take turns marking spaces in the grid with their respective symbols, usually "X" and "O", with the goal of getting three of their symbols in a row, either horizontally, vertically, or diagonally.
-
-## Rules of the Game
+<!-- ## Rules of the Game
 1. The game is played on a grid that's 3 squares by 3 squares.
 2. Player 1 is X, and Player 2 (or the computer) is O. Players take turns putting their marks in empty squares.
 3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
@@ -37,5 +35,5 @@ Tic-Tac-Toe is a two-player game played on a 3x3 grid. The players take turns ma
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](/ttt/LICENSE) file for details.
- -->
+This project is licensed under the MIT License - see the [LICENSE](/ttt/LICENSE) file for details. -->
+
