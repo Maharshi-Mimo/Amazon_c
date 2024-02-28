@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# Amazon Clone
 
 ## Author
 - **Name:** Maharshi Dutta
